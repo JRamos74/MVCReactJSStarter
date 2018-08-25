@@ -1,6 +1,7 @@
 # MVC.NET with ReactJS
 
-A quick starter solution for anyone who wants to use ReactJS within an MVC.NET application.
+A quick starter solution for anyone who wants to use ReactJS within an MVC.NET application. 
+This solution uses webpack, babel, bootstrap 4, React 16.2, and React Router 4
 
 ## Getting Started
 
