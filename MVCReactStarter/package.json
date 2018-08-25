@@ -1,0 +1,29 @@
+{
+  "version": "1.0.0",
+  "name": "mvc-react-starter",
+  "private": true,
+  "description": "stripped down mvc and react starter solution",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0",
+    "react-router-dom": "^4.3.1",
+    "toastr": "^2.1.4",
+    "webpack": "^3.11.0",
+    "webpack-dev-server": "^2.11.1"
+  },
+  "devDependencies": {
+    "babel-core": "^6.26.0",
+    "babel-preset-env": "^1.6.1",
+    "babel-loader": "7.1.4",
+    "babel-preset-es2015": "6.24.1",
+    "babel-preset-react": "6.24.1",
+    "css-loader": "^0.28.9",
+    "html-webpack-plugin": "^2.30.1",
+    "style-loader": "^0.20.2",
+    "webpack": "^3.11.0"
+  },
+  "scripts": {
+    "start": "webpack-dev-server"
+  }
+}
